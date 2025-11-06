@@ -1,0 +1,21 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+venv/
+my_env/
+agentic-env/
+.venv/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and runtime data
+logs/
+data/*.db
+data/*.sqlite3
